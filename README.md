@@ -14,6 +14,7 @@ A simplest To-Do App build with Flask Framework
 * Method two :
 1. Launch your bash terminal, and type
 2. ./run
+<br>
 This is a pretty cool method which I have once discovered out of curiosity
 
 #### Note : 
